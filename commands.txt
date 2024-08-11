@@ -1,0 +1,10 @@
+create a repoitory    >>>https.........git
+open git bash  >>>> git clone  link
+
+U >>> untracked files
+A >>> added files
+M >>> modified files
+
+git status
+
+git add . >>>>all files has ben tracked by git
